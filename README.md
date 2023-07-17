@@ -1,3 +1,6 @@
+Can you please help me my mistakes?
+
+
 FortuneCookie.java
 
 Create a FortuneCookie class in the same folder as Server and Client with the following data members:
